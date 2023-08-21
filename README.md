@@ -1,5 +1,3 @@
-      Structural Equation Modeling (SEM) Analysis
-Overview
 This R code aims to perform Structural Equation Modeling (SEM) on data from EMSL's 1,000 Soils Project. The project provides three core types of data:
 
 - Geochemistry: Elemental abundance, pH, etc. (referred to as "geochem").
